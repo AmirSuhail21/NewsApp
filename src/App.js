@@ -4,6 +4,7 @@ function App() {
   return (
     <>
     <NavBar/>
+    Amir Is A Good Boy
     </>
   );
 }
